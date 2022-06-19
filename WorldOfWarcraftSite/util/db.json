@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin",
+      "email": "admin"
+    },
+    {
+      "id": 84,
+      "username": "ceva",
+      "password": "sadsa",
+      "email": "dasda"
+    },
+    {
+      "id": 25,
+      "username": "sadfas",
+      "password": "dasdfasf",
+      "email": "afsdfaf"
+    },
+    {
+      "id": 96,
+      "username": "cacalin",
+      "password": "calin",
+      "email": "macalin"
+    },
+    {
+      "id": 82,
+      "username": "savu",
+      "password": "savu",
+      "email": "savu"
+    },
+    {
+      "id": 88,
+      "username": "edna",
+      "password": "edna",
+      "email": "edna"
+    }
+  ]
+}
